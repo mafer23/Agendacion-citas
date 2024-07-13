@@ -1,0 +1,7 @@
+# Ignorar la carpeta node_modules generada por npm
+node_modules/
+
+# Ignorar archivos de configuración con credenciales
+credentials.json
+.env
+config/*.key
